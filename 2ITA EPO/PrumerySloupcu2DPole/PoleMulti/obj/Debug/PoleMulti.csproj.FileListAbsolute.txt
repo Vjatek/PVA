@@ -1,0 +1,8 @@
+H:\pva\PoleMulti\PoleMulti\bin\Debug\PoleMulti.exe.config
+H:\pva\PoleMulti\PoleMulti\bin\Debug\PoleMulti.exe
+H:\pva\PoleMulti\PoleMulti\bin\Debug\PoleMulti.pdb
+H:\pva\PoleMulti\PoleMulti\obj\Debug\PoleMulti.csproj.AssemblyReference.cache
+H:\pva\PoleMulti\PoleMulti\obj\Debug\PoleMulti.csproj.CoreCompileInputs.cache
+H:\pva\PoleMulti\PoleMulti\obj\Debug\PoleMulti.exe
+H:\pva\PoleMulti\PoleMulti\obj\Debug\PoleMulti.pdb
+H:\pva\PoleMulti\PoleMulti\obj\Debug\PoleMulti.exe.config

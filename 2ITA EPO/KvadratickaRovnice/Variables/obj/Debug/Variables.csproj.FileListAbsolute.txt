@@ -1,0 +1,8 @@
+H:\pva\Variables\Variables\bin\Debug\Variables.exe.config
+H:\pva\Variables\Variables\bin\Debug\Variables.exe
+H:\pva\Variables\Variables\bin\Debug\Variables.pdb
+H:\pva\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+H:\pva\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+H:\pva\Variables\Variables\obj\Debug\Variables.exe
+H:\pva\Variables\Variables\obj\Debug\Variables.pdb
+H:\pva\Variables\Variables\obj\Debug\Variables.exe.config

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\pva\\3minima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D719A5-B617-4B76-8E92-FD610C40C51D}|3minima\\3minima.csproj|h:\\pva\\3minima\\3minima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D719A5-B617-4B76-8E92-FD610C40C51D}|3minima\\3minima.csproj|solutionrelative:3minima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\pva\\3minima\\3minima\\Program.cs",
+              "RelativeDocumentMoniker": "3minima\\Program.cs",
+              "ToolTip": "H:\\pva\\3minima\\3minima\\Program.cs",
+              "RelativeToolTip": "3minima\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:38:50.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

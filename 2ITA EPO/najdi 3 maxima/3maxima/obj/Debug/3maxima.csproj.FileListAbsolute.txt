@@ -1,0 +1,8 @@
+H:\pva\3maxima\3maxima\bin\Debug\3maxima.exe.config
+H:\pva\3maxima\3maxima\bin\Debug\3maxima.exe
+H:\pva\3maxima\3maxima\bin\Debug\3maxima.pdb
+H:\pva\3maxima\3maxima\obj\Debug\3maxima.csproj.AssemblyReference.cache
+H:\pva\3maxima\3maxima\obj\Debug\3maxima.csproj.CoreCompileInputs.cache
+H:\pva\3maxima\3maxima\obj\Debug\3maxima.exe
+H:\pva\3maxima\3maxima\obj\Debug\3maxima.pdb
+H:\pva\3maxima\3maxima\obj\Debug\3maxima.exe.config

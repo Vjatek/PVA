@@ -1,0 +1,16 @@
+H:\pva\studenti\studenti\bin\Debug\studenti.exe.config
+H:\pva\studenti\studenti\bin\Debug\studenti.exe
+H:\pva\studenti\studenti\bin\Debug\studenti.pdb
+H:\pva\studenti\studenti\obj\Debug\studenti.csproj.AssemblyReference.cache
+H:\pva\studenti\studenti\obj\Debug\studenti.csproj.CoreCompileInputs.cache
+H:\pva\studenti\studenti\obj\Debug\studenti.exe
+H:\pva\studenti\studenti\obj\Debug\studenti.pdb
+H:\pva\studenti\studenti\obj\Debug\studenti.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\bin\Debug\studenti.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\bin\Debug\studenti.exe
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\bin\Debug\studenti.pdb
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\obj\Debug\studenti.csproj.AssemblyReference.cache
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\obj\Debug\studenti.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\obj\Debug\studenti.csproj.CoreCompileInputs.cache
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\obj\Debug\studenti.exe
+C:\Users\vitdo\Downloads\PVA\PVA\studenti\studenti\obj\Debug\studenti.pdb

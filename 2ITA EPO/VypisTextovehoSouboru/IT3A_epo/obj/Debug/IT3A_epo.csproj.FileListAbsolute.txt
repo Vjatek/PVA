@@ -1,0 +1,8 @@
+H:\pva\IT3A_epo\IT3A_epo\bin\Debug\IT3A_epo.exe.config
+H:\pva\IT3A_epo\IT3A_epo\bin\Debug\IT3A_epo.exe
+H:\pva\IT3A_epo\IT3A_epo\bin\Debug\IT3A_epo.pdb
+H:\pva\IT3A_epo\IT3A_epo\obj\Debug\IT3A_epo.csproj.AssemblyReference.cache
+H:\pva\IT3A_epo\IT3A_epo\obj\Debug\IT3A_epo.csproj.CoreCompileInputs.cache
+H:\pva\IT3A_epo\IT3A_epo\obj\Debug\IT3A_epo.exe
+H:\pva\IT3A_epo\IT3A_epo\obj\Debug\IT3A_epo.pdb
+H:\pva\IT3A_epo\IT3A_epo\obj\Debug\IT3A_epo.exe.config

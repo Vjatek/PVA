@@ -1,0 +1,8 @@
+H:\pva\podminky35\podminky35\bin\Debug\podminky35.exe.config
+H:\pva\podminky35\podminky35\bin\Debug\podminky35.exe
+H:\pva\podminky35\podminky35\bin\Debug\podminky35.pdb
+H:\pva\podminky35\podminky35\obj\Debug\podminky35.csproj.AssemblyReference.cache
+H:\pva\podminky35\podminky35\obj\Debug\podminky35.csproj.CoreCompileInputs.cache
+H:\pva\podminky35\podminky35\obj\Debug\podminky35.exe
+H:\pva\podminky35\podminky35\obj\Debug\podminky35.pdb
+H:\pva\podminky35\podminky35\obj\Debug\podminky35.exe.config

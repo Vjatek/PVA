@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nevim", "nevim\nevim.csproj", "{C8CF0886-B6F1-466C-84C5-DBD6CA5D6D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CF0886-B6F1-466C-84C5-DBD6CA5D6D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CF0886-B6F1-466C-84C5-DBD6CA5D6D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CF0886-B6F1-466C-84C5-DBD6CA5D6D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CF0886-B6F1-466C-84C5-DBD6CA5D6D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F9BD00-971D-41C3-9BE7-7EABC4B1098C}
+	EndGlobalSection
+EndGlobal

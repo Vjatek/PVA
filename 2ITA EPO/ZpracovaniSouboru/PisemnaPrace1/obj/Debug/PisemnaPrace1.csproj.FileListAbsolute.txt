@@ -1,0 +1,8 @@
+H:\pva\PisemnaPrace1\PisemnaPrace1\bin\Debug\PisemnaPrace1.exe.config
+H:\pva\PisemnaPrace1\PisemnaPrace1\bin\Debug\PisemnaPrace1.exe
+H:\pva\PisemnaPrace1\PisemnaPrace1\bin\Debug\PisemnaPrace1.pdb
+H:\pva\PisemnaPrace1\PisemnaPrace1\obj\Debug\PisemnaPrace1.csproj.AssemblyReference.cache
+H:\pva\PisemnaPrace1\PisemnaPrace1\obj\Debug\PisemnaPrace1.csproj.CoreCompileInputs.cache
+H:\pva\PisemnaPrace1\PisemnaPrace1\obj\Debug\PisemnaPrace1.exe
+H:\pva\PisemnaPrace1\PisemnaPrace1\obj\Debug\PisemnaPrace1.pdb
+H:\pva\PisemnaPrace1\PisemnaPrace1\obj\Debug\PisemnaPrace1.exe.config

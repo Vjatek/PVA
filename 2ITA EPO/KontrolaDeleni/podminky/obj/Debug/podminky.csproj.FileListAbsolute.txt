@@ -1,0 +1,16 @@
+H:\pva\podminky\podminky\bin\Debug\podminky.exe.config
+H:\pva\podminky\podminky\bin\Debug\podminky.exe
+H:\pva\podminky\podminky\bin\Debug\podminky.pdb
+H:\pva\podminky\podminky\obj\Debug\podminky.csproj.AssemblyReference.cache
+H:\pva\podminky\podminky\obj\Debug\podminky.csproj.CoreCompileInputs.cache
+H:\pva\podminky\podminky\obj\Debug\podminky.exe
+H:\pva\podminky\podminky\obj\Debug\podminky.pdb
+H:\pva\podminky\podminky\obj\Debug\podminky.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\bin\Debug\podminky.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\bin\Debug\podminky.exe
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\bin\Debug\podminky.pdb
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\obj\Debug\podminky.csproj.AssemblyReference.cache
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\obj\Debug\podminky.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\obj\Debug\podminky.csproj.CoreCompileInputs.cache
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\obj\Debug\podminky.exe
+C:\Users\vitdo\Downloads\PVA\PVA\podminky\podminky\obj\Debug\podminky.pdb

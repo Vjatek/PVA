@@ -1,0 +1,8 @@
+H:\pva\projekt2\projekt2\bin\Debug\projekt2.exe.config
+H:\pva\projekt2\projekt2\bin\Debug\projekt2.exe
+H:\pva\projekt2\projekt2\bin\Debug\projekt2.pdb
+H:\pva\projekt2\projekt2\obj\Debug\projekt2.csproj.AssemblyReference.cache
+H:\pva\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+H:\pva\projekt2\projekt2\obj\Debug\projekt2.exe
+H:\pva\projekt2\projekt2\obj\Debug\projekt2.pdb
+H:\pva\projekt2\projekt2\obj\Debug\projekt2.exe.config

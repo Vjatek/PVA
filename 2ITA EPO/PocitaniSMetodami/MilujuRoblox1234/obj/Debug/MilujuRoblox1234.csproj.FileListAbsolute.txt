@@ -1,0 +1,15 @@
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\bin\Debug\MilujuRoblox1234.exe.config
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\bin\Debug\MilujuRoblox1234.exe
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\bin\Debug\MilujuRoblox1234.pdb
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.csproj.AssemblyReference.cache
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.csproj.CoreCompileInputs.cache
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.exe
+H:\pva\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.pdb
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\bin\Debug\MilujuRoblox1234.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\bin\Debug\MilujuRoblox1234.exe
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\bin\Debug\MilujuRoblox1234.pdb
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.csproj.AssemblyReference.cache
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.csproj.CoreCompileInputs.cache
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.exe
+C:\Users\vitdo\Downloads\PVA\PVA\MilujuRoblox1234\MilujuRoblox1234\obj\Debug\MilujuRoblox1234.pdb

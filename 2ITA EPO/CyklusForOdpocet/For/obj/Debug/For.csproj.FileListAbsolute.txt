@@ -1,0 +1,16 @@
+H:\pva\For\For\bin\Debug\For.exe.config
+H:\pva\For\For\bin\Debug\For.exe
+H:\pva\For\For\bin\Debug\For.pdb
+H:\pva\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+H:\pva\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+H:\pva\For\For\obj\Debug\For.exe
+H:\pva\For\For\obj\Debug\For.pdb
+H:\pva\For\For\obj\Debug\For.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\bin\Debug\For.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\bin\Debug\For.exe
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\bin\Debug\For.pdb
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\obj\Debug\For.exe.config
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\obj\Debug\For.exe
+C:\Users\vitdo\Downloads\PVA\PVA\For\For\obj\Debug\For.pdb

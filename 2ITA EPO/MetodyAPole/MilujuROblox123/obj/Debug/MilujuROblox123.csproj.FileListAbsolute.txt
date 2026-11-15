@@ -1,0 +1,8 @@
+H:\pva\MilujuROblox123\MilujuROblox123\bin\Debug\MilujuROblox123.exe.config
+H:\pva\MilujuROblox123\MilujuROblox123\bin\Debug\MilujuROblox123.exe
+H:\pva\MilujuROblox123\MilujuROblox123\bin\Debug\MilujuROblox123.pdb
+H:\pva\MilujuROblox123\MilujuROblox123\obj\Debug\MilujuROblox123.csproj.AssemblyReference.cache
+H:\pva\MilujuROblox123\MilujuROblox123\obj\Debug\MilujuROblox123.csproj.CoreCompileInputs.cache
+H:\pva\MilujuROblox123\MilujuROblox123\obj\Debug\MilujuROblox123.exe
+H:\pva\MilujuROblox123\MilujuROblox123\obj\Debug\MilujuROblox123.pdb
+H:\pva\MilujuROblox123\MilujuROblox123\obj\Debug\MilujuROblox123.exe.config

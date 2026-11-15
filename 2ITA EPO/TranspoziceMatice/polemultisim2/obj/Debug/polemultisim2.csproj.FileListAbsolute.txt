@@ -1,0 +1,8 @@
+H:\pva\polemultisim2\polemultisim2\bin\Debug\polemultisim2.exe.config
+H:\pva\polemultisim2\polemultisim2\bin\Debug\polemultisim2.exe
+H:\pva\polemultisim2\polemultisim2\bin\Debug\polemultisim2.pdb
+H:\pva\polemultisim2\polemultisim2\obj\Debug\polemultisim2.csproj.AssemblyReference.cache
+H:\pva\polemultisim2\polemultisim2\obj\Debug\polemultisim2.csproj.CoreCompileInputs.cache
+H:\pva\polemultisim2\polemultisim2\obj\Debug\polemultisim2.exe
+H:\pva\polemultisim2\polemultisim2\obj\Debug\polemultisim2.pdb
+H:\pva\polemultisim2\polemultisim2\obj\Debug\polemultisim2.exe.config

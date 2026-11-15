@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitdo\\Downloads\\PVA\\PVA\\pole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB82335-20D3-4F75-8B45-202827A68362}|pole\\pole.csproj|c:\\users\\vitdo\\downloads\\pva\\pva\\pole\\pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB82335-20D3-4F75-8B45-202827A68362}|pole\\pole.csproj|solutionrelative:pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitdo\\Downloads\\PVA\\PVA\\pole\\pole\\Program.cs",
+              "RelativeDocumentMoniker": "pole\\Program.cs",
+              "ToolTip": "C:\\Users\\vitdo\\Downloads\\PVA\\PVA\\pole\\pole\\Program.cs",
+              "RelativeToolTip": "pole\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:37:27.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

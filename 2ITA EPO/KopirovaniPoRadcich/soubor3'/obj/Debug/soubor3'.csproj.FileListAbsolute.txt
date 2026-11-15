@@ -1,0 +1,8 @@
+H:\pva\soubor3'\soubor3'\bin\Debug\soubor3'.exe.config
+H:\pva\soubor3'\soubor3'\bin\Debug\soubor3'.exe
+H:\pva\soubor3'\soubor3'\bin\Debug\soubor3'.pdb
+H:\pva\soubor3'\soubor3'\obj\Debug\soubor3'.csproj.AssemblyReference.cache
+H:\pva\soubor3'\soubor3'\obj\Debug\soubor3'.csproj.CoreCompileInputs.cache
+H:\pva\soubor3'\soubor3'\obj\Debug\soubor3'.exe
+H:\pva\soubor3'\soubor3'\obj\Debug\soubor3'.pdb
+H:\pva\soubor3'\soubor3'\obj\Debug\soubor3'.exe.config

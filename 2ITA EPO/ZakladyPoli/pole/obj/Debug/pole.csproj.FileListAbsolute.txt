@@ -1,0 +1,8 @@
+H:\pva\pole\pole\bin\Debug\pole.exe.config
+H:\pva\pole\pole\bin\Debug\pole.exe
+H:\pva\pole\pole\bin\Debug\pole.pdb
+H:\pva\pole\pole\obj\Debug\pole.csproj.AssemblyReference.cache
+H:\pva\pole\pole\obj\Debug\pole.csproj.CoreCompileInputs.cache
+H:\pva\pole\pole\obj\Debug\pole.exe
+H:\pva\pole\pole\obj\Debug\pole.pdb
+H:\pva\pole\pole\obj\Debug\pole.exe.config
