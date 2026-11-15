@@ -1,8 +1,0 @@
-H:\pva\testasi\testasi\bin\Debug\testasi.exe.config
-H:\pva\testasi\testasi\bin\Debug\testasi.exe
-H:\pva\testasi\testasi\bin\Debug\testasi.pdb
-H:\pva\testasi\testasi\obj\Debug\testasi.csproj.AssemblyReference.cache
-H:\pva\testasi\testasi\obj\Debug\testasi.csproj.CoreCompileInputs.cache
-H:\pva\testasi\testasi\obj\Debug\testasi.exe
-H:\pva\testasi\testasi\obj\Debug\testasi.pdb
-H:\pva\testasi\testasi\obj\Debug\testasi.exe.config

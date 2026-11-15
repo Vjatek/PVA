@@ -1,8 +1,0 @@
-H:\pva\nevim\nevim\bin\Debug\nevim.exe.config
-H:\pva\nevim\nevim\bin\Debug\nevim.exe
-H:\pva\nevim\nevim\bin\Debug\nevim.pdb
-H:\pva\nevim\nevim\obj\Debug\nevim.csproj.AssemblyReference.cache
-H:\pva\nevim\nevim\obj\Debug\nevim.csproj.CoreCompileInputs.cache
-H:\pva\nevim\nevim\obj\Debug\nevim.exe
-H:\pva\nevim\nevim\obj\Debug\nevim.pdb
-H:\pva\nevim\nevim\obj\Debug\nevim.exe.config

@@ -1,8 +1,0 @@
-H:\pva\KALK\KALK\bin\Debug\KALK.exe.config
-H:\pva\KALK\KALK\bin\Debug\KALK.exe
-H:\pva\KALK\KALK\bin\Debug\KALK.pdb
-H:\pva\KALK\KALK\obj\Debug\KALK.csproj.AssemblyReference.cache
-H:\pva\KALK\KALK\obj\Debug\KALK.csproj.CoreCompileInputs.cache
-H:\pva\KALK\KALK\obj\Debug\KALK.exe
-H:\pva\KALK\KALK\obj\Debug\KALK.pdb
-H:\pva\KALK\KALK\obj\Debug\KALK.exe.config

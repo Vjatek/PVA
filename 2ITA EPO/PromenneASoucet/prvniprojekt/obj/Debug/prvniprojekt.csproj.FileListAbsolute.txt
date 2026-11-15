@@ -1,8 +1,0 @@
-H:\pva\prvniprojekt\prvniprojekt\bin\Debug\prvniprojekt.exe.config
-H:\pva\prvniprojekt\prvniprojekt\bin\Debug\prvniprojekt.exe
-H:\pva\prvniprojekt\prvniprojekt\bin\Debug\prvniprojekt.pdb
-H:\pva\prvniprojekt\prvniprojekt\obj\Debug\prvniprojekt.csproj.AssemblyReference.cache
-H:\pva\prvniprojekt\prvniprojekt\obj\Debug\prvniprojekt.csproj.CoreCompileInputs.cache
-H:\pva\prvniprojekt\prvniprojekt\obj\Debug\prvniprojekt.exe
-H:\pva\prvniprojekt\prvniprojekt\obj\Debug\prvniprojekt.pdb
-H:\pva\prvniprojekt\prvniprojekt\obj\Debug\prvniprojekt.exe.config

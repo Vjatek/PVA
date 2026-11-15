@@ -1,8 +1,0 @@
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\bin\Debug\to se uplne nepovedlo.exe.config
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\bin\Debug\to se uplne nepovedlo.exe
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\bin\Debug\to se uplne nepovedlo.pdb
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\obj\Debug\to se uplne nepovedlo.csproj.AssemblyReference.cache
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\obj\Debug\to se uplne nepovedlo.csproj.CoreCompileInputs.cache
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\obj\Debug\to se uplne nepovedlo.exe
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\obj\Debug\to se uplne nepovedlo.pdb
-H:\pva\to se uplne nepovedlo\to se uplne nepovedlo\obj\Debug\to se uplne nepovedlo.exe.config

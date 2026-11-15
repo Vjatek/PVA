@@ -1,7 +1,0 @@
-H:\pva\3minima\3minima\bin\Debug\3minima.exe.config
-H:\pva\3minima\3minima\bin\Debug\3minima.exe
-H:\pva\3minima\3minima\bin\Debug\3minima.pdb
-H:\pva\3minima\3minima\obj\Debug\3minima.csproj.AssemblyReference.cache
-H:\pva\3minima\3minima\obj\Debug\3minima.csproj.CoreCompileInputs.cache
-H:\pva\3minima\3minima\obj\Debug\3minima.exe
-H:\pva\3minima\3minima\obj\Debug\3minima.pdb

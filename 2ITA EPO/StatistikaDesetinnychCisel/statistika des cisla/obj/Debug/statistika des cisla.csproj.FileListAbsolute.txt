@@ -1,8 +1,0 @@
-H:\pva\statistika des cisla\statistika des cisla\obj\Debug\statistika des cisla.csproj.AssemblyReference.cache
-H:\pva\statistika des cisla\statistika des cisla\obj\Debug\statistika des cisla.csproj.CoreCompileInputs.cache
-H:\pva\statistika des cisla\statistika des cisla\bin\Debug\statistika des cisla.exe.config
-H:\pva\statistika des cisla\statistika des cisla\bin\Debug\statistika des cisla.exe
-H:\pva\statistika des cisla\statistika des cisla\bin\Debug\statistika des cisla.pdb
-H:\pva\statistika des cisla\statistika des cisla\obj\Debug\statistika des cisla.exe
-H:\pva\statistika des cisla\statistika des cisla\obj\Debug\statistika des cisla.pdb
-H:\pva\statistika des cisla\statistika des cisla\obj\Debug\statistika des cisla.exe.config

@@ -1,8 +1,0 @@
-H:\pva\vyhledavana\vyhledavana\bin\Debug\vyhledavana.exe.config
-H:\pva\vyhledavana\vyhledavana\bin\Debug\vyhledavana.exe
-H:\pva\vyhledavana\vyhledavana\bin\Debug\vyhledavana.pdb
-H:\pva\vyhledavana\vyhledavana\obj\Debug\vyhledavana.csproj.AssemblyReference.cache
-H:\pva\vyhledavana\vyhledavana\obj\Debug\vyhledavana.csproj.CoreCompileInputs.cache
-H:\pva\vyhledavana\vyhledavana\obj\Debug\vyhledavana.exe
-H:\pva\vyhledavana\vyhledavana\obj\Debug\vyhledavana.pdb
-H:\pva\vyhledavana\vyhledavana\obj\Debug\vyhledavana.exe.config
